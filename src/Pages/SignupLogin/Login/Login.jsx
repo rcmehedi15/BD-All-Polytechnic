@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import { FaEye, FaEyeSlash, FaGoogle } from 'react-icons/fa';
+import loginImage from '../../../assets/login.gif'
+
 import Swal from 'sweetalert2';
 import { useForm } from 'react-hook-form';
 import { Link } from 'react-router-dom';
@@ -16,7 +18,7 @@ const Login = () => {
         <>
             <div className='grid grid-cols-1 sm:grid-cols-2 h-screen w-full mt-12'>
                 <div className='hidden sm:block md:mt-28 '>
-                    {/* <img className='w-full h-96 object-cover' src={loginImage} alt="" /> */}
+                    <img className='w-full h-96 object-cover' src={loginImage} alt="" />
                 </div>
 
                 <div className=' flex flex-col justify-center '>

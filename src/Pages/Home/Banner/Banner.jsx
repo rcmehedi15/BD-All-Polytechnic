@@ -13,7 +13,7 @@ const Banner = () => {
                     <div>
                         <h1 className="text-5xl font-bold text-[#FF42A5] mb-2">Welcome to our </h1> <span className="text-4xl font-bold text-[#272626] " >Bangladeshi Polytechnic Admission Zone </span>
                         <p className="py-6">Diploma is committed to providing a dynamic and interesting learning experience with small class sizes and affordable high-quality programs</p>
-                        <Link to="/profile" className="btn bg-[#FF42A5] text-white border-none">Get Started </Link> 
+                        <Link to="/signup" className="btn bg-[#FF42A5] text-white border-none">Get Started </Link> 
                     </div>
                 </div>
             </div> 

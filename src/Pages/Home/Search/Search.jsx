@@ -1,6 +1,32 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 const Search = () => {
+    const [allColleges, setAllColleges] = useState([]);
+    const [searchText, setSearchText] = useState("");
+    const [loader, setLoader] = useState(true);
+    const [search, setSearch] = useState(false);
+
+
+    useEffect(() => {
+        const fetchColleges = async () => {
+            try {
+                // for auto search with typing 
+                if(searchText){
+                    setSearch(true);
+                }
+
+                const response = await fetch(`$/allColleges?limit=1&collegeName=${searchText}`);
+                const data = await response.json();
+                setAllColleges(data);
+                setLoader(false);
+            } catch (error) {
+                console.error(error);
+            }
+        };
+
+        fetchColleges();
+    }, [searchText]);
+
     return (
         <div className="w-10/12 md:w-3/12 md:ml-auto mx-auto my-4">
 

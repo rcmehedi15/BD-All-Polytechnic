@@ -11,9 +11,9 @@ const Home = () => {
             <Banner />
             <Search />
 
-            {/* <LatestNotice /> */}
-            {/* <RecentNotice /> */}
-            {/* <Teacher /> */}
+            <LatestNotice />
+            <RecentNotice />
+            <Teacher />
         </>
     );
 };

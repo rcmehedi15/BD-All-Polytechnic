@@ -1,0 +1,21 @@
+[
+    {
+      "collegeId": "1",
+      "collegeName": "Dhaka Polytechnic",
+      "review": "Great college with excellent facilities.",
+      "rating": 4.5
+    },
+    {
+      "collegeId": "2",
+      "collegeName": "Infra Polytechnic",
+      "review": "The professors are knowledgeable and supportive.",
+      "rating": 4.0
+    },
+    {
+      "collegeId": "3",
+      "collegeName": "PQR Institute",
+      "review": "The campus environment is beautiful.",
+      "rating": 4.2
+    }
+  ]
+  

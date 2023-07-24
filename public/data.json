@@ -1,0 +1,153 @@
+[
+    {
+      "polytechnicId": "1",
+      "polytechnicName": "Dhaka Polytechnic Institue",
+      "polytechnicImage": "https://w0.peakpx.com/wallpaper/324/906/HD-wallpaper-curzon-hall-asia-bangladesh-castles-dhaka-dhaka-university-du-heritage-history-university-of-dhaka.jpg",
+      "admissionDates": ["2023-09-01", "2024-01-15"],
+      "admissionProcess": "Admission to Dhaka Polytechnic is based on a rigorous entrance exam and academic performance. Candidates must submit their application online and appear for the entrance exam on the scheduled date.",
+      "events": [
+        {
+          "eventName": "Orientation Day",
+          "eventDetails": "Orientation Day welcomes new students and provides an introduction to campus life and academic programs."
+        },
+        {
+          "eventName": "Cultural Fest",
+          "eventDetails": "Cultural Fest features various cultural performances, including music, dance, and drama."
+        },
+        {
+          "eventName": "Sports Carnival",
+          "eventDetails": "Sports Carnival includes inter-departmental sports competitions and friendly matches."
+        }
+      ],
+      "researchWorks": [
+        {
+          "researchers": "John Smith, Emily Johnson",
+          "departmentName": "Faculty of Science",
+          "photo": "https://example.com/research-photo-1.jpg",
+          "researchHistory" : "Dhaka Polytechnic is one of the oldest and most prestigious universities in Bangladesh."
+        }
+       
+      ],
+      "sportsCategories": [
+        {
+          "sportName": "Football",
+          "sportDetails": "Football is a popular sport at Dhaka University, and the university's football team participates in various tournaments and matches."
+        },
+        {
+          "sportName": "Cricket",
+          "sportDetails": "Cricket enthusiasts can join the university's cricket team and participate in various matches and tournaments."
+        },
+        {
+          "sportName": "Badminton",
+          "sportDetails": "The Polytechnic provides badminton facilities, and students can join the badminton club for practice and friendly games."
+        }
+      ],
+      "gallery": [
+        "https://example.com/dhaka-university-gallery-1.jpg",
+        "https://example.com/dhaka-university-gallery-2.jpg",
+        "https://example.com/dhaka-university-gallery-3.jpg"
+      ],
+      "groupPhoto": "https://example.com/dhaka-university-group-photo.jpg"
+    },
+    {
+      "polytechnicId": "2",
+      "polytechnicName": "Infra Polytechnic Institue",
+      "polytechnicImage": "https://w0.peakpx.com/wallpaper/324/906/HD-wallpaper-curzon-hall-asia-bangladesh-castles-dhaka-dhaka-university-du-heritage-history-university-of-dhaka.jpg",
+      "admissionDates": ["2023-09-01", "2024-01-15"],
+      "admissionProcess": "Admission to Dhaka Polytechnic is based on a rigorous entrance exam and academic performance. Candidates must submit their application online and appear for the entrance exam on the scheduled date.",
+      "events": [
+        {
+          "eventName": "Orientation Day",
+          "eventDetails": "Orientation Day welcomes new students and provides an introduction to campus life and academic programs."
+        },
+        {
+          "eventName": "Cultural Fest",
+          "eventDetails": "Cultural Fest features various cultural performances, including music, dance, and drama."
+        },
+        {
+          "eventName": "Sports Carnival",
+          "eventDetails": "Sports Carnival includes inter-departmental sports competitions and friendly matches."
+        }
+      ],
+      "researchWorks": [
+        {
+          "researchers": "John Smith, Emily Johnson",
+          "departmentName": "Faculty of Science",
+          "photo": "https://example.com/research-photo-1.jpg",
+          "researchHistory" : "Dhaka Polytechnic is one of the oldest and most prestigious universities in Bangladesh."
+        }
+       
+      ],
+      "sportsCategories": [
+        {
+          "sportName": "Football",
+          "sportDetails": "Football is a popular sport at Dhaka University, and the university's football team participates in various tournaments and matches."
+        },
+        {
+          "sportName": "Cricket",
+          "sportDetails": "Cricket enthusiasts can join the university's cricket team and participate in various matches and tournaments."
+        },
+        {
+          "sportName": "Badminton",
+          "sportDetails": "The Polytechnic provides badminton facilities, and students can join the badminton club for practice and friendly games."
+        }
+      ],
+      "gallery": [
+        "https://example.com/dhaka-university-gallery-1.jpg",
+        "https://example.com/dhaka-university-gallery-2.jpg",
+        "https://example.com/dhaka-university-gallery-3.jpg"
+      ],
+      "groupPhoto": "https://example.com/dhaka-university-group-photo.jpg"
+    },
+    {
+      "polytechnicId": "3",
+      "polytechnicName": "Barishal Polytechnic Institue",
+      "polytechnicImage": "https://w0.peakpx.com/wallpaper/324/906/HD-wallpaper-curzon-hall-asia-bangladesh-castles-dhaka-dhaka-university-du-heritage-history-university-of-dhaka.jpg",
+      "admissionDates": ["2023-09-01", "2024-01-15"],
+      "admissionProcess": "Admission to Dhaka Polytechnic is based on a rigorous entrance exam and academic performance. Candidates must submit their application online and appear for the entrance exam on the scheduled date.",
+      "events": [
+        {
+          "eventName": "Orientation Day",
+          "eventDetails": "Orientation Day welcomes new students and provides an introduction to campus life and academic programs."
+        },
+        {
+          "eventName": "Cultural Fest",
+          "eventDetails": "Cultural Fest features various cultural performances, including music, dance, and drama."
+        },
+        {
+          "eventName": "Sports Carnival",
+          "eventDetails": "Sports Carnival includes inter-departmental sports competitions and friendly matches."
+        }
+      ],
+      "researchWorks": [
+        {
+          "researchers": "John Smith, Emily Johnson",
+          "departmentName": "Faculty of Science",
+          "photo": "https://example.com/research-photo-1.jpg",
+          "researchHistory" : "Dhaka Polytechnic is one of the oldest and most prestigious universities in Bangladesh."
+        }
+       
+      ],
+      "sportsCategories": [
+        {
+          "sportName": "Football",
+          "sportDetails": "Football is a popular sport at Dhaka University, and the university's football team participates in various tournaments and matches."
+        },
+        {
+          "sportName": "Cricket",
+          "sportDetails": "Cricket enthusiasts can join the university's cricket team and participate in various matches and tournaments."
+        },
+        {
+          "sportName": "Badminton",
+          "sportDetails": "The Polytechnic provides badminton facilities, and students can join the badminton club for practice and friendly games."
+        }
+      ],
+      "gallery": [
+        "https://example.com/dhaka-university-gallery-1.jpg",
+        "https://example.com/dhaka-university-gallery-2.jpg",
+        "https://example.com/dhaka-university-gallery-3.jpg"
+      ],
+      "groupPhoto": "https://example.com/dhaka-university-group-photo.jpg"
+    }
+]
+
